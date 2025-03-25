@@ -1,5 +1,6 @@
 Overview
-- Use this script to maintain optimal growing conditions for common gourmet mushroom species in a grow tent or room. It will broadcast environmental conditions to three virtual pins in Blynk 
+
+Use this script to maintain optimal growing conditions for common gourmet mushroom species in a grow tent or room. It will broadcast environmental conditions to three virtual pins in Blynk 
 IoT for easy real-time monitoring. 
 
 Hardware setup instructions:
