@@ -1,3 +1,7 @@
+Overview
+Use this script to maintain optimal growing conditions for common gourmet mushroom species in a grow tent or room. It will broadcast environmental conditions to three virtual pins in Blynk 
+IoT for easy real-time monitoring. 
+
 Hardware setup instructions:
 - Connect humidifier relay signal pin to `HUMIDIFIER_PIN` GPIO pin. Connect relay pins to 5V power and ground.
 - Connect fan relay signal pin to `FAN_PIN` GPIO pin. Connect relay pins to 5V power and ground.
